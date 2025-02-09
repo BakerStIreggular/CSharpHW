@@ -1,0 +1,69 @@
+1 Indicate whether each of the following C# programming language identifiers is legal or illegal. If it is legal, indicate whether it is a conventional identifier for a class.
+
+	a. electricBill-Legal (Unconventional)
+
+	b.ElectricBill-Legal (Conventional)
+
+	c.Electric bill- Illegal
+
+	d.Static- Illegal
+
+	e.void- Illegal
+
+	f.#ssn- Illegal
+
+	g.Ay56we-Legal (Unconventional) 
+	
+	h.Theater_Tickets-Legal (Unconventional) 
+
+	i.212AreaCode- Illegal
+
+	j.heightInCentimeters-Legal (Unconventional) 
+
+	k.Zip23891-Legal (Conventional)
+
+	l.Void- Legal (Unconventional) 
+
+_____________________________________________________________________________________________________________________________
+
+2. Name at least three attributes that might be appropriate for each of the following classes:
+
+	a.TVShow
+		a1:Air Time
+		a2:Channel or Streaming Service
+		a3:Genre
+
+	b.Party
+		b1:Location
+		b2:Theme
+		b3:Time
+	
+	c.JobApplication
+		c1:Name
+		c2:Work History
+		C3:Assement 
+
+	d.CheckingAccount
+		d1:Account Number
+		d2:Account Balance
+		d3:Account Holder
+
+_____________________________________________________________________________________________________________________________
+
+3. Name at least two classes to which each of these objects might belong:
+
+	a.your cousin
+		a1: FamilyMembers
+		a2: PersonalRelationships
+	
+	b.Macys
+		b1:Department Stores
+		b2:USParades
+
+	c.Egypt
+		c1:Countries
+		c2:Locations
+
+	d.Thomas Jefferson
+		d1:USPresidents
+		d2:UsConstitutionAuthors

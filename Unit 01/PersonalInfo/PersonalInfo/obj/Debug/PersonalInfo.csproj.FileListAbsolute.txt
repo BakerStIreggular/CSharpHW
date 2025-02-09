@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\bin\Debug\PersonalInfo.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\PersonalInfo\PersonalInfo\obj\Debug\PersonalInfo.pdb
