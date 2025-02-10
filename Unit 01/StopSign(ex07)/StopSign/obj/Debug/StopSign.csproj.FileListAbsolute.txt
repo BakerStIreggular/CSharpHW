@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\bin\Debug\StopSign.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\bin\Debug\StopSign.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\bin\Debug\StopSign.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\obj\Debug\StopSign.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\obj\Debug\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\obj\Debug\StopSign.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\StopSign\StopSign\obj\Debug\StopSign.pdb

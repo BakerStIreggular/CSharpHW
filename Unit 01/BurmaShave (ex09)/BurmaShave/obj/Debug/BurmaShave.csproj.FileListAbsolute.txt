@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\obj\Debug\BurmaShave.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\obj\Debug\BurmaShave.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BurmaShave\BurmaShave\obj\Debug\BurmaShave.pdb

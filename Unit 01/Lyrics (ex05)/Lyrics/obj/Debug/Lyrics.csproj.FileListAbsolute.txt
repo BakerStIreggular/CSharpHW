@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\bin\Debug\Lyrics.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\bin\Debug\Lyrics.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\bin\Debug\Lyrics.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\obj\Debug\Lyrics.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\obj\Debug\Lyrics.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\obj\Debug\Lyrics.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Lyrics\Lyrics\obj\Debug\Lyrics.pdb

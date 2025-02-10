@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\bin\Debug\Debug3.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\bin\Debug\Debug3.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\bin\Debug\Debug3.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\obj\Debug\Debug3.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\obj\Debug\Debug3.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\obj\Debug\Debug3.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\Debug3\Debug3\obj\Debug\Debug3.pdb

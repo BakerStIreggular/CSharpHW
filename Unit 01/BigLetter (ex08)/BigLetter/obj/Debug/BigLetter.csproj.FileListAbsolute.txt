@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\bin\Debug\BigLetter.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\bin\Debug\BigLetter.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\bin\Debug\BigLetter.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\obj\Debug\BigLetter.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\obj\Debug\BigLetter.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\obj\Debug\BigLetter.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 01\Homework\BigLetter\BigLetter\obj\Debug\BigLetter.pdb
