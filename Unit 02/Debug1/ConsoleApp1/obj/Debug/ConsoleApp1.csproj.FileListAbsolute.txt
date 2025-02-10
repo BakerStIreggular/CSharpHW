@@ -1,0 +1,14 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\Debug1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

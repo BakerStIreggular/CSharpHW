@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy1\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb

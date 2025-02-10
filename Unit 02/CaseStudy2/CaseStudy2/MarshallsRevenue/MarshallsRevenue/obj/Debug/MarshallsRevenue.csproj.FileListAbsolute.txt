@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 02\HomeWork\CaseStudy2\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.pdb
