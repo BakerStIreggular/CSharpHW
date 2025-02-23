@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\bin\Debug\Twitter_PE2.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\bin\Debug\Twitter_PE2.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\bin\Debug\Twitter_PE2.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\obj\Debug\Twitter_PE2.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\obj\Debug\Twitter_PE2.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\obj\Debug\Twitter_PE2.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 04\Homework\Twitter_PE2\Twitter_PE2\obj\Debug\Twitter_PE2.pdb

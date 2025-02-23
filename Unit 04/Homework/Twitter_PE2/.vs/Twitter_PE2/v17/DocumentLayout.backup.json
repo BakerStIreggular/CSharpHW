@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\Twitter_PE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86E4381-0A66-4552-8338-091E8BF2E9D6}|Twitter_PE2\\Twitter_PE2.csproj|c:\\users\\kayla\\desktop\\c#\\unit files\\unit 04\\homework\\twitter_pe2\\twitter_pe2\\twitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86E4381-0A66-4552-8338-091E8BF2E9D6}|Twitter_PE2\\Twitter_PE2.csproj|solutionrelative:twitter_pe2\\twitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Unit04_datafiles\\DebuggingExercises\\DebugFour2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugFour2.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Unit04_datafiles\\DebuggingExercises\\DebugFour2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unit04_datafiles\\DebuggingExercises\\DebugFour2.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Unit04_datafiles\\DebuggingExercises\\DebugFour2.cs",
+              "RelativeToolTip": "..\\..\\Unit04_datafiles\\DebuggingExercises\\DebugFour2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:47:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Twitter.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\Twitter_PE2\\Twitter_PE2\\Twitter.cs",
+              "RelativeDocumentMoniker": "Twitter_PE2\\Twitter.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\Twitter_PE2\\Twitter_PE2\\Twitter.cs",
+              "RelativeToolTip": "Twitter_PE2\\Twitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:46:19.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
