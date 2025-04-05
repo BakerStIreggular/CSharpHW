@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerFacts_PE2", "IntergerFacts_PE2\IntergerFacts_PE2.csproj", "{DBD5C6B7-B980-413B-92E7-8052F757C7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD5C6B7-B980-413B-92E7-8052F757C7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD5C6B7-B980-413B-92E7-8052F757C7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD5C6B7-B980-413B-92E7-8052F757C7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD5C6B7-B980-413B-92E7-8052F757C7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1330D1FD-292C-4181-93C3-87F11FC2B7F5}
+	EndGlobalSection
+EndGlobal

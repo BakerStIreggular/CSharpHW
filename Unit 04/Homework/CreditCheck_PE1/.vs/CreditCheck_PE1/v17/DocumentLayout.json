@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\CreditCheck_PE1\\",
+  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\CreditCheck_PE1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA89618F-3FEA-49DC-AD92-8222A90C41E3}|CreditCheck_PE1\\CreditCheck_PE1.csproj|c:\\users\\kayla\\desktop\\c#\\unit files\\unit 04\\homework\\creditcheck_pe1\\creditcheck_pe1\\creditcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA89618F-3FEA-49DC-AD92-8222A90C41E3}|CreditCheck_PE1\\CreditCheck_PE1.csproj|c:\\users\\kayla\\desktop\\c#\\csharphw\\unit 04\\homework\\creditcheck_pe1\\creditcheck_pe1\\creditcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA89618F-3FEA-49DC-AD92-8222A90C41E3}|CreditCheck_PE1\\CreditCheck_PE1.csproj|solutionrelative:creditcheck_pe1\\creditcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CreditCheck.cs",
-              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\CreditCheck_PE1\\CreditCheck_PE1\\CreditCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\CreditCheck_PE1\\CreditCheck_PE1\\CreditCheck.cs",
               "RelativeDocumentMoniker": "CreditCheck_PE1\\CreditCheck.cs",
-              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\CreditCheck_PE1\\CreditCheck_PE1\\CreditCheck.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\CreditCheck_PE1\\CreditCheck_PE1\\CreditCheck.cs",
               "RelativeToolTip": "CreditCheck_PE1\\CreditCheck.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

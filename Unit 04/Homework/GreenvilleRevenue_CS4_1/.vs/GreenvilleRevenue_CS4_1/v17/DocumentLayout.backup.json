@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\",
+  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC2B7B20-CF06-4E34-99A4-9DBC30AE3EB3}|GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1.csproj|c:\\users\\kayla\\desktop\\c#\\unit files\\unit 04\\homework\\greenvillerevenue_cs4_1\\greenvillerevenue_cs4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2B7B20-CF06-4E34-99A4-9DBC30AE3EB3}|GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1.csproj|c:\\users\\kayla\\desktop\\c#\\csharphw\\unit 04\\homework\\greenvillerevenue_cs4_1\\greenvillerevenue_cs4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2B7B20-CF06-4E34-99A4-9DBC30AE3EB3}|GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1.csproj|solutionrelative:greenvillerevenue_cs4_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1\\Program.cs",
               "RelativeDocumentMoniker": "GreenvilleRevenue_CS4_1\\Program.cs",
-              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\CSharpHW\\Unit 04\\Homework\\GreenvilleRevenue_CS4_1\\GreenvilleRevenue_CS4_1\\Program.cs",
               "RelativeToolTip": "GreenvilleRevenue_CS4_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\bin\Debug\Built_In_Method_PE1.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\bin\Debug\Built_In_Method_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\bin\Debug\Built_In_Method_PE1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\obj\Debug\Built_In_Method_PE1.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\obj\Debug\Built_In_Method_PE1.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\obj\Debug\Built_In_Method_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\Built_In_Method_PE1\Built_In_Method_PE1\obj\Debug\Built_In_Method_PE1.pdb

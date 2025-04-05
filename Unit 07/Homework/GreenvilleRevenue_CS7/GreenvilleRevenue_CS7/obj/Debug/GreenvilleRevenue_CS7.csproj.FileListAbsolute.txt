@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\obj\Debug\GreenvilleRevenue_CS7.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\obj\Debug\GreenvilleRevenue_CS7.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\bin\Debug\GreenvilleRevenue_CS7.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\bin\Debug\GreenvilleRevenue_CS7.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\bin\Debug\GreenvilleRevenue_CS7.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\obj\Debug\GreenvilleRevenue_CS7.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 07\Homework\GreenvilleRevenue_CS7\GreenvilleRevenue_CS7\obj\Debug\GreenvilleRevenue_CS7.pdb

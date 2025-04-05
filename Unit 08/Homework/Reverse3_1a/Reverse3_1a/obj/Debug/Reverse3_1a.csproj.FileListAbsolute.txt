@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\bin\Debug\Reverse3_1a.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\bin\Debug\Reverse3_1a.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\bin\Debug\Reverse3_1a.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\obj\Debug\Reverse3_1a.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\obj\Debug\Reverse3_1a.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\obj\Debug\Reverse3_1a.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 08\Homework\Reverse3_1a\Reverse3_1a\obj\Debug\Reverse3_1a.pdb

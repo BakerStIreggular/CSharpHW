@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Built_In_Method_PE1", "Built_In_Method_PE1\Built_In_Method_PE1.csproj", "{DB4FF05C-C474-40AF-992C-28C3CEFF6749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4FF05C-C474-40AF-992C-28C3CEFF6749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4FF05C-C474-40AF-992C-28C3CEFF6749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4FF05C-C474-40AF-992C-28C3CEFF6749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4FF05C-C474-40AF-992C-28C3CEFF6749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C2D4D92-AE6C-43E6-A082-8DA0B8C3D9EE}
+	EndGlobalSection
+EndGlobal
