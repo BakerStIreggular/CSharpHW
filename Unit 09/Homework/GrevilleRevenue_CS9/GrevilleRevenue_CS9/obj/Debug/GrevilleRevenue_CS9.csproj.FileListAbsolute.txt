@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\bin\Debug\GrevilleRevenue_CS9.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\bin\Debug\GrevilleRevenue_CS9.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\bin\Debug\GrevilleRevenue_CS9.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\obj\Debug\GrevilleRevenue_CS9.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\obj\Debug\GrevilleRevenue_CS9.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\obj\Debug\GrevilleRevenue_CS9.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\GrevilleRevenue_CS9\GrevilleRevenue_CS9\obj\Debug\GrevilleRevenue_CS9.pdb

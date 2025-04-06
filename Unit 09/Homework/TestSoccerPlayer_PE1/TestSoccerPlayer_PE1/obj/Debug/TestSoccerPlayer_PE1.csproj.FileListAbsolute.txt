@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\bin\Debug\TestSoccerPlayer_PE1.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\bin\Debug\TestSoccerPlayer_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\bin\Debug\TestSoccerPlayer_PE1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\obj\Debug\TestSoccerPlayer_PE1.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\obj\Debug\TestSoccerPlayer_PE1.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\obj\Debug\TestSoccerPlayer_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 09\Homework\TestSoccerPlayer_PE1\TestSoccerPlayer_PE1\obj\Debug\TestSoccerPlayer_PE1.pdb

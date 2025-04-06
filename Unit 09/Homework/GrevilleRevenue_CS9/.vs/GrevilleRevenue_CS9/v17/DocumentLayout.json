@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 09\\Homework\\GrevilleRevenue_CS9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92DAC4-14E7-4224-8103-43E7460EE887}|GrevilleRevenue_CS9\\GrevilleRevenue_CS9.csproj|c:\\users\\kayla\\desktop\\c#\\unit files\\unit 09\\homework\\grevillerevenue_cs9\\grevillerevenue_cs9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92DAC4-14E7-4224-8103-43E7460EE887}|GrevilleRevenue_CS9\\GrevilleRevenue_CS9.csproj|solutionrelative:grevillerevenue_cs9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 09\\Homework\\GrevilleRevenue_CS9\\GrevilleRevenue_CS9\\Program.cs",
+              "RelativeDocumentMoniker": "GrevilleRevenue_CS9\\Program.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 09\\Homework\\GrevilleRevenue_CS9\\GrevilleRevenue_CS9\\Program.cs",
+              "RelativeToolTip": "GrevilleRevenue_CS9\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:50:56.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
