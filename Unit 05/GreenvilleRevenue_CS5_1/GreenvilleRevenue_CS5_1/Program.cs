@@ -3,6 +3,7 @@ using static System.Console;
 using System.Globalization;
 using System.Diagnostics;
 using System.Runtime.Remoting.Services;
+using System.Linq;
 class GreenvilleRevenue
 {
     static void Main()
@@ -42,11 +43,13 @@ class GreenvilleRevenue
 
         string[] ContestantName = new string[NumberOfContestantsThisYear];
         Char[] ContestantTalent = new char [NumberOfContestantsThisYear];
+        string[] singers = new string[];
+        string[] dancers = new string[]; 
 
         for (int i = 0; i < NumberOfContestantsThisYear; ++i)
         {
             WriteLine("Enter Contestants Name");
-            ContestantName[i] = ReadLine();
+            var CurrentContestant = ReadLine();
 
             do
             {
@@ -64,12 +67,23 @@ class GreenvilleRevenue
 
             } while (ContestantTalent[i] != 'S' &&  ContestantTalent[i] != 'D' && ContestantTalent[i] != 'M' && ContestantTalent[i] != 'O');
 
+            if (ContestantTalent[i] == 'S')
+                singers.Append(CurrentContestant);
+            if (ContestantTalent[i] == 'D')
+                D++;
+            if (ContestantTalent[i] == 'M')
+                M++;
+            if (ContestantTalent[i] == 'O')
+                O++;
+
         }
 
         int S = 0;
         int D = 0;
         int M = 0;
         int O = 0;
+
+        singers.Count();
 
         for (int i = 0; i < NumberOfContestantsThisYear; ++i)
         {

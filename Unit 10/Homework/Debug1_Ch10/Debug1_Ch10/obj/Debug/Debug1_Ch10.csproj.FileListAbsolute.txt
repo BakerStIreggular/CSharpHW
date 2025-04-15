@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\bin\Debug\Debug1_Ch10.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\bin\Debug\Debug1_Ch10.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\bin\Debug\Debug1_Ch10.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\obj\Debug\Debug1_Ch10.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\obj\Debug\Debug1_Ch10.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\obj\Debug\Debug1_Ch10.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 10\Homework\Debug1_Ch10\Debug1_Ch10\obj\Debug\Debug1_Ch10.pdb

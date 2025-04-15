@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 10\\Homework\\PhotoDemo_PE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3575485-7176-4A75-95CF-BAD4A0415658}|PhotoDemo_PE2\\PhotoDemo_PE2.csproj|c:\\users\\kayla\\desktop\\c#\\unit files\\unit 10\\homework\\photodemo_pe2\\photodemo_pe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3575485-7176-4A75-95CF-BAD4A0415658}|PhotoDemo_PE2\\PhotoDemo_PE2.csproj|solutionrelative:photodemo_pe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 10\\Homework\\PhotoDemo_PE2\\PhotoDemo_PE2\\Program.cs",
+              "RelativeDocumentMoniker": "PhotoDemo_PE2\\Program.cs",
+              "ToolTip": "C:\\Users\\Kayla\\Desktop\\C#\\Unit Files\\Unit 10\\Homework\\PhotoDemo_PE2\\PhotoDemo_PE2\\Program.cs",
+              "RelativeToolTip": "PhotoDemo_PE2\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T01:18:40.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
