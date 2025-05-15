@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\bin\Debug\Greenville_CS14.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\bin\Debug\Greenville_CS14.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\bin\Debug\Greenville_CS14.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\obj\Debug\Greenville_CS14.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\obj\Debug\Greenville_CS14.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\obj\Debug\Greenville_CS14.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\Greenville_CS14\Greenville_CS14\obj\Debug\Greenville_CS14.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\bin\Debug\FileComparison_PE2.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\bin\Debug\FileComparison_PE2.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\bin\Debug\FileComparison_PE2.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\obj\Debug\FileComparison_PE2.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\obj\Debug\FileComparison_PE2.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\obj\Debug\FileComparison_PE2.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 14\Homework\FileComparison_PE2\FileComparison_PE2\obj\Debug\FileComparison_PE2.pdb

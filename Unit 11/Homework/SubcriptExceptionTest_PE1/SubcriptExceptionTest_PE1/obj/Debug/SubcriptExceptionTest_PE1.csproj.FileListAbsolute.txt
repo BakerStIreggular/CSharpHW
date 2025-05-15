@@ -1,0 +1,7 @@
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\bin\Debug\SubcriptExceptionTest_PE1.exe.config
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\bin\Debug\SubcriptExceptionTest_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\bin\Debug\SubcriptExceptionTest_PE1.pdb
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\obj\Debug\SubcriptExceptionTest_PE1.csproj.AssemblyReference.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\obj\Debug\SubcriptExceptionTest_PE1.csproj.CoreCompileInputs.cache
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\obj\Debug\SubcriptExceptionTest_PE1.exe
+C:\Users\Kayla\Desktop\C#\Unit Files\Unit 11\Homework\SubcriptExceptionTest_PE1\SubcriptExceptionTest_PE1\obj\Debug\SubcriptExceptionTest_PE1.pdb
